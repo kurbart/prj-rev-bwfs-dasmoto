@@ -1,0 +1,26 @@
+.Header {
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-size: cover;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  font-family: Helvetica;
+}
+h2 {
+  background-color: mediumspringgreen;
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+strong {
+  color:blue;
+  font-family: Helvetica;
+}
+.Frames h2 {
+  background-color: lightcoral;
+}
+.Paint h2 {
+  background-color: skyblue;
+}
